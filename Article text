@@ -1,0 +1,20 @@
+(HEAD) [Meta Data, imges, links(css)]
+(Header) {
+top.✓
+background images.×
+texts.✓
+title.✓
+fonts.✓
+}
+(section) {
+texts.✓
+images.✓
+}
+(Main) {
+contexts.✓
+texts.✓
+images.✓
+}
+(links for advertise) {
+youtube (https://youtube.com/@bradplayz21).✓
+}
